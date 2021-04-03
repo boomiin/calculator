@@ -1,4 +1,4 @@
 # First Calculator
 
-This is a calculator just for addition, substraction, multplication and division
+This is a calculator just for basic operations (addition, substraction, multplication and division)
 
